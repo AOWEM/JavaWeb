@@ -1,0 +1,19 @@
+### Example user template template
+### Example user template
+
+# Java class files
+*.class
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
